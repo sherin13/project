@@ -175,5 +175,4 @@
 
 	END OF TERMS AND CONDITIONS
 
-
-Buid Successful
+Licence to git on Sunday
